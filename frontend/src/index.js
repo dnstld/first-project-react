@@ -1,4 +1,3 @@
-// yarn webpack-dev-server --mode development
 import React from 'react';
 import { render } from 'react-dom';
 
